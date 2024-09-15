@@ -1,6 +1,6 @@
 # grqphical's Wallpapers
 
-This is my personal wallpaper collection
+This is my personal wallpaper collection. All the images are made to fit in 1920x1080
 
 ## Sources
 
