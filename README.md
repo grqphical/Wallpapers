@@ -12,7 +12,6 @@ Unsplash, Wallhaven, Google Images, My own creations
 
 ![Aurora](photographs/aurora-1.png)
 ![Aurora](photographs/aurora-2.jpg)
-![City](photographs/city-1.jpg)
 ![Mountains](photographs/mountains-1.jpg)
 ![Mountains](photographs/mountains-2.jpg)
 ![Sunset](photographs/sunset-1.jpg)
