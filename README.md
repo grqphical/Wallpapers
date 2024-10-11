@@ -4,7 +4,7 @@ This is my personal wallpaper collection. Each folder contains resized iamges (1
 
 ## Sources
 
-Unsplash, Wallhaven, Google Images, My own creations
+Unsplash, Wallhaven, Google Images, Microsoft, My own creations
 
 ## Previews
 
@@ -33,3 +33,4 @@ Unsplash, Wallhaven, Google Images, My own creations
 
 ![Garuda](illustrations/garuda.jpg)
 ![Purple Castle](illustrations/purple-castle.png)
+![Windows 95](illustrations/Windows95.png)
