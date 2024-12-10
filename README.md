@@ -33,3 +33,4 @@ Unsplash, Wallhaven, Google Images, My own creations
 
 ![Garuda](illustrations/garuda.jpg)
 ![Purple Castle](illustrations/purple-castle.png)
+![Minecraft Windows 10](illustrations/minecraft_win_10.png)
